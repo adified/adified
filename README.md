@@ -1,20 +1,14 @@
-# Hi there, I'm Adarsh Agarwal! 👋
+# Hi, I'm Adarsh Agarwal 👋
 
-I'm a dedicated Backend Developer specializing in building **robust, scalable, and secure applications** using **Golang**. My expertise spans **cloud-native architectures (AWS)**, **containerization (Docker)**, **orchestration (Kubernetes)**, and **secure API design**. I excel in problem-solving and am committed to continuous learning and delivering high quality solutions.
+I'm a dedicated **Backend Developer** focused on building **scalable, secure, Microservice, and robust applications** primarily with **Golang**. My expertise spans **cloud-native architectures (AWS)**, **containerization (Docker - intermediate, Kubernetes - basics)**, and **high-performance API design (gRPC)**. I thrive on problem-solving and am committed to continuous learning in advanced backend and cloud technologies.
 
 ---
 
-## 🚀 Skills & Goals
+## 🛠️ Skills
 
-### Skills
-* **Languages**: Golang (Go), Python, C++.
-* **Backend**: API Design (REST, gRPC), Database Management (PostgreSQL, AWS RDS/DynamoDB), Hashing, HMAC, Base64, Error Handling, Scalability.
-* **Cloud (AWS)**: RDS, EC2, ECS, ECR, Lambda, DynamoDB, VPC, IAM, S3, CloudWatch, SQS, SNS.
-* **DevOps**: Docker, Docker Compose, Kubernetes (Nginx Ingress, Service Management, IaC, CDN), CI/CD.
-* **Security**: PASETO, Cookie Mechanics, CSRF Mitigation, OAuth.
-* **Tools**: Git, GitHub, Protobuf, Swagger/OpenAPI.
-
-### Goals
-* Deepen expertise in cloud infrastructure and advanced security patterns.
-* Optimize Go backend performance for high-throughput systems.
-* Contribute to impactful projects that leverage modern backend and cloud technologies.
+* **Languages**: Golang (Go), Python, C++, C, SQL
+* **DevOps**: Docker, Kubernetes, GitHub Actions, CloudFormation (IaC), Elastic Beanstalk (PaaS)
+* **Cloud (AWS)**: EKS, EC2, S3, ECS, ECR, SNS, SQS, CloudFront, Kinesis, Fargate, Lambda, API Gateway, Aurora & RDS, DynamoDB
+* **Databases & Caching**: PostgreSQL, MongoDB, Redis, SQLC, pgx
+* **Monitoring & Tools**: Linux, Protobuf, JWT, RabbitMQ, Postman, SSH
+* **Concepts**: Concurrency, OOP, Testing, Asynchronous Processing, Webhook, WebSocket, REST APIs, Pub/Sub, PaaS, IaC
