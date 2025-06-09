@@ -1,30 +1,20 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Adarsh Agarwal! 👋
 
-Backend Developer focused on building **robust, scalable, and secure applications** with a passion for problem-solving.
-
----
-
-## 🚀 Key Strengths
-
-* **Go Proficiency**: Building efficient and concurrent backend services.
-* **API Design**: Expertise in **RESTful** and **gRPC APIs** (Protobuf, gRPC Gateway, Interceptors).
-* **Cloud-Native**: Strong in **AWS** (SQS, RDS, Lambda, DynamoDB, VPC, IAM, S3, CloudWatch Logs).
-* **Containerization**: **Docker** (fundamentals, Docker Compose, troubleshooting).
-* **Orchestration**: **Kubernetes** (Nginx Ingress, Service Management, HTTPS, IaC, CDN with CloudFront).
-* **Security**: Deep understanding of **PASETO**, **Cookie Mechanics**, **CSRF Mitigation**, AuthN vs. AuthZ.
-* **Databases**: Experience with **PostgreSQL** (including Docker), AWS RDS, DynamoDB.
-* **Performance**: Insights into `fasthttp`, `gorilla/sessions` internals.
-* **DevOps**: CI/CD workflow concepts, deployment basics, Git/GitHub.
-* **Core Concepts**: API design, scalability, error handling, hashing, Base64, HMAC.
+I'm a dedicated Backend Developer specializing in building **robust, scalable, and secure applications** using **Go**. My expertise spans **cloud-native architectures (AWS)**, **containerization (Docker)**, **orchestration (Kubernetes)**, and **secure API design (gRPC, PASETO)**. I excel in problem-solving and am committed to continuous learning and delivering high-quality solutions.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 Skills & Goals
 
-* **Languages**: **Go** (primary), Python, C++.
-* **AWS**: RDS, EC2, ECS, ECR, SNS, SQS, Lambda, DynamoDB, VPC, IAM, S3, CloudWatch Logs.
-* **Containerization**: Docker, Docker Compose.
-* **Orchestration**: Kubernetes.
-* **Databases**: PostgreSQL, Redis.
-* **APIs**: gRPC, Protobuf, Swagger/OpenAPI.
-* **Version Control**: Git, GitHub.
+### Skills
+* **Languages**: Go (primary), Python, C++.
+* **Backend**: API Design (REST, gRPC), Database Management (PostgreSQL, AWS RDS/DynamoDB), Hashing, HMAC, Base64, Error Handling, Scalability.
+* **Cloud (AWS)**: RDS, EC2, ECS, ECR, Lambda, DynamoDB, VPC, IAM, S3, CloudWatch, SQS, SNS.
+* **DevOps**: Docker, Docker Compose, Kubernetes (Nginx Ingress, Service Management, IaC, CDN), CI/CD.
+* **Security**: PASETO, Cookie Mechanics, CSRF Mitigation, AuthN/AuthZ.
+* **Tools**: Git, GitHub, Protobuf, Swagger/OpenAPI.
+
+### Goals
+* Deepen expertise in cloud infrastructure and advanced security patterns.
+* Optimize Go backend performance for high-throughput systems.
+* Contribute to impactful projects that leverage modern backend and cloud technologies.
