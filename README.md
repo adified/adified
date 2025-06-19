@@ -8,7 +8,7 @@
 
 ## 🛠️ Skills
 
-* 💻 **Languages**: Go (primary), Python, C++, SQL
+* 💻 **Languages**: Golang (Go), Python, C++, SQL
 * ☁️ **Cloud**: AWS, serverless and serverful solutions
 * ⚙️ **DevOps**: Docker, Kubernetes, GitHub Actions, CloudFormation (IaC)
 * 💾 **Databases & Caching**: PostgreSQL, MongoDB, Redis
